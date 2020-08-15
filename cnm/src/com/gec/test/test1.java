@@ -3,7 +3,7 @@ package com.gec.test;
 public class test1 {
     public void add(){
         System.out.println("cnm");
-        System.out.println();
+        System.out.println("asaa");
         System.out.println();
 
     }
